@@ -1,0 +1,11 @@
+Pseudocode 
+1. Peminjaman Buku
+- jika sudah menjadi anggota maka dapat menginput pencarian buku, jika belum menjadi anggota maka lakukan pendaftaran untuk dapat melakukan input pencarian buku
+- jika sudah selesai melakukan pencarian buku bisa memilih buku
+- setelah selesai memilih buku dilakukan pencatatan tanggal pinjam dan tanggal pengembalian
+- jika ingin melakukan penambahan pinjaman buku bisa melakukan pencarian buku dan jika tidak maka program selesai
+
+2. Pengembalian Buku
+- lakukan pengisian daftar hadir anggota terlebih dahulu
+- kemudian lanjut ke tahap pemrosesan pengembalian buku, jika terlambat dilakukan pembayaran denda lalu akan di lakukan pencatatan dokumen, namun jika tidak terlambat maka langsung dilakukan pencatantan dokumen 
+-program selesai dilakukan 
